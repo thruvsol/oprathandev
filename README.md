@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm Jeremy ✌️😎👾🎵 </h1>
-  <a href="https://www.linkedin.com/in/didierkrux/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Jeremy-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy-prathan-5080ab383/"></a>
+  <a href="https://www.linkedin.com/in/jeremy-prathan-5080ab383/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Jeremy-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy-prathan-5080ab383/"></a>
   <a href="https://twitter.com/intent/follow?screen_name=didierkrux"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Jeremy%20Eth&style=social&url=https://twitter.com/Jeremyyeth"></a>
 </div>
 
