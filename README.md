@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathandev&style=flat&color=lightgray" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=thruvsol&style=flat&color=lightgray" alt="profile views"/>
 </p>
