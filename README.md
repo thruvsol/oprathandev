@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/prathandev">
-    <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=prathandev&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=thruvsol&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
   </a>
   <a href="https://github.com/prathandev">
     <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=thruvsol&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" height="160"/>
